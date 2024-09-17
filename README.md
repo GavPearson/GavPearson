@@ -4,7 +4,7 @@ After many years mastering Excel, I have recently stept into the world of Power 
 You can use this [link](https://github.com/GavPearson/Power-BI-Bike-Sales-) to view my first GitHub repository which contains the Power BI file and raw data file. The web browser dashboard and mobile report look like this.
 <p align="center">
   <img src ="https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/DASHBOARD.PNG" "Power BI Dashboard" width ="400" hspace="10">
-  <img src ="https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/MOBILE%20DEMO.PNG" height ="200" hspace="10">
+  <img src ="https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/MOBILE%20DEMO.PNG" "Power BI Mobile Report" height ="200" hspace="10">
 </p>
 
 
