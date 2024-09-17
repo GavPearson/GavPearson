@@ -23,7 +23,7 @@ You can use this [link](https://github.com/GavPearson/Power-BI-Bike-Sales-) to v
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gavpearson/)
 -->
 > [!NOTE]
-> I'm looking for work and project to build on these new skills.
+> I'm looking for work and projects to build on these new skills.
 
 > [!TIP]
 > You can contact me [here](https://www.linkedin.com/in/gavpearson/).
