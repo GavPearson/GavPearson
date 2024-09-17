@@ -1,5 +1,5 @@
 ## About me:
-After many years mastering Excel, I have recently stept into the world of Power BI. In August 2024 I completed a 16 week Skills for Life Skills Bootcamp with [Cenit College](https://www.cenitcollege.co.uk/course/data-analytics-with-powerbi-bootcamp/). 
+After many years mastering Excel, I have recently stept into the world of Power BI. In August 2024 I completed a 16 week Skills for Life Bootcamp with [Cenit College](https://www.cenitcollege.co.uk/course/data-analytics-with-powerbi-bootcamp/). 
 # Data Analytics with Power BI
 You can use this [link](https://github.com/GavPearson/Power-BI-Bike-Sales-) to view my first GitHub repository which contains the Power BI file and raw data file. The report and dashboard look like this.
 
