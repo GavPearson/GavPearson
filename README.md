@@ -1,5 +1,6 @@
 ### About me
 ## Power BI
+# Data Analytics
 
 - 🔭 I’m currently working on an Olympic Dataset in Power BI
 - 🌱 I’m currently learning SQL on SSMS
