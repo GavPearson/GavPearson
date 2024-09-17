@@ -3,8 +3,8 @@ After many years mastering Excel, I have recently stept into the world of Power 
 # Data Analytics with Power BI
 You can use this [link](https://github.com/GavPearson/Power-BI-Bike-Sales-) to view my first GitHub repository which contains the Power BI file and raw data file. The web browser dashboard and mobile report look like this.
 
-![Screenshot of my first published dashboard on the Power BI Service.](https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/DASHBOARD.PNG)
-![Screenshot of my first mobile layout report](https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/MOBILE%20DEMO.PNG)
+![Screenshot of my first published dashboard on the Power BI Service.](https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/DASHBOARD.PNG){: style="height:83px"}
+![Screenshot of my first mobile layout report](https://github.com/GavPearson/Power-BI-Bike-Sales-/blob/main/MOBILE%20DEMO.PNG){: style="height:83px"}
 
 
 
