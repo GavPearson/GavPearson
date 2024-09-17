@@ -1,5 +1,5 @@
 ## About me:
-After many years mastering Excel, I have recently stepped into the world of Power BI. In August 2024 I completed a 16 week Skills for Life Skills Bootcamp with [Cenit College](https://www.cenitcollege.co.uk/course/data-analytics-with-powerbi-bootcamp/). 
+After many years mastering Excel, I have recently stept into the world of Power BI. In August 2024 I completed a 16 week Skills for Life Skills Bootcamp with [Cenit College](https://www.cenitcollege.co.uk/course/data-analytics-with-powerbi-bootcamp/). 
 # Data Analytics with Power BI
 You can use this [link](https://github.com/GavPearson/Power-BI-Bike-Sales-) to view my first GitHub repository which contains the Power BI file and raw data file. The report and dashboard look like this.
 
@@ -22,16 +22,10 @@ You can use this [link](https://github.com/GavPearson/Power-BI-Bike-Sales-) to v
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gavpearson/)
 -->
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> I'm looking for work and project to build on these new skills.
 
 > [!TIP]
 > You can contact me [here](https://www.linkedin.com/in/gavpearson/).
 
 > [!IMPORTANT]
 > Be nice.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> You may want to employ me while you can.
